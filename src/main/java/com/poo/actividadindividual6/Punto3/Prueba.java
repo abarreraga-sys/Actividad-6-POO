@@ -1,0 +1,9 @@
+package com.poo.actividadindividual6.punto3;
+
+public class Prueba {
+
+    public static void main(String[] args) {
+        Profesor profesor1 = new ProfesorTitular();
+        profesor1.imprimir();
+    }
+}
